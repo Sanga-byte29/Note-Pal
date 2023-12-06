@@ -1,5 +1,16 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+A Note Taking AI Assistant app for developers
+Screenshot - 1
+![note_s](https://github.com/Sanga-byte29/Note-Pal/assets/78073395/e4e10323-6121-4228-ae59-ae7ae7946d0b)
+![note_ss](https://github.com/Sanga-byte29/Note-Pal/assets/78073395/f66ff9e3-f163-4e93-99ef-d9d49fbb4564)
+![note_ss_1](https://github.com/Sanga-byte29/Note-Pal/assets/78073395/a440ef3a-88ce-4db5-bec6-8cd3d30dbcec)
+
+
+
+
+
+
 ## Getting Started
 
 First, run the development server:
